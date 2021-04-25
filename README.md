@@ -2,6 +2,7 @@
 
 # Desafio Jussi
 
+* Link da LP desenvolvida: [Jüssi | The Business Agency.](https://jussi-store-challenge.vercel.app/)
 ### Desafio proposto pel empresa Jussi com os seguintes requisitos:
 
  
