@@ -39,9 +39,10 @@ export function MainSeachFilter() {
         {products.filter((values) => {
           if(setSearchFilter === '') {
             return values
-          } else if (values.name.toLowerCase().includes(searchFilter.toLowerCase())) {
-            return values
-          }
+          } 
+          const results = values.name.toLowerCase().includes(searchFilter.toLowerCase())
+          return results
+          
           }).map((value, index) => {
             return ( 
               <SearchInfos key={index}>
