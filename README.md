@@ -1,4 +1,4 @@
-![nodejs](https://lh3.googleusercontent.com/proxy/TPNANh53Hel40qmoMv3SkOJKaYJrnQ8uGXJVzl18IBJG1xsa6gmUEtnPF9_RundMLpt63X1aF0-mR5rDr6pIKzr543akmry2TNpybSS7BBBKXmyRYHolaUs)
+![jussi](https://lh3.googleusercontent.com/proxy/TPNANh53Hel40qmoMv3SkOJKaYJrnQ8uGXJVzl18IBJG1xsa6gmUEtnPF9_RundMLpt63X1aF0-mR5rDr6pIKzr543akmry2TNpybSS7BBBKXmyRYHolaUs)
 
 # Desafio Jussi
 
