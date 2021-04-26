@@ -81,7 +81,7 @@ export const SearchInfos = styled.li`
   padding: 15px 20px;
   margin: 0 10px 0 0;
   cursor: pointer;
-  transition: all .5 forwards;
+  transition: color .5 forwards;
   & + li {
     padding: 0 20px 15px;
   }

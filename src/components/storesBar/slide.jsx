@@ -47,9 +47,9 @@ export function MobileStoresBar() {
       onSwiper={(swiper) => console.log(swiper)}
       onSlideChange={() => console.log('slide change')}
       >
-        {storesLogo.map((store, index) => (
-          <SwiperSlide>
-            <a href={store.linkTo} key={index}>
+        {storesLogo.map((store, idx) => (
+          <SwiperSlide key={idx}>
+            <a href={store.linkTo} >
               <img src={store.image} alt={store.alt}/>
             </a>
           </SwiperSlide>

@@ -43,7 +43,6 @@ export const Anchors = styled.a`
   font-size: 1.6rem;
   line-height: 2.4rem;
   margin-left: 32px;
-  transition: all 5s ease;
   @media (max-width: 999px) {
     &:not(:first-child) {
       display: none;
@@ -90,7 +89,6 @@ export const MobileButton = styled.div`
     height: 3px;
     width: 30px;
     box-shadow: 0 8px var(--pinkjussi), 0 -8px var(--pinkjussi);
-    transition: 1s ease;
     z-index: -1;
   }
 `
@@ -147,7 +145,6 @@ export const CloseMenu = styled.div`
     height: 3px;
     border-radius: 20px;
     background: var(--pinkjussi);
-    transition: 1s ease;
     transform: rotate(45deg);
   }
   &::before {
@@ -160,6 +157,5 @@ export const CloseMenu = styled.div`
     border-radius: 20px;
     background: var(--pinkjussi);
     transform: rotate(-45deg);
-    transition: 1s ease;
   }
 `

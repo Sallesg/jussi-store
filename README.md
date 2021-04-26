@@ -50,10 +50,11 @@
 
 ### Tempo de projeto
 * Projeto recebido dia 22/05 às 18h42m.
-* Iniciado dia 24/5 às 6h.
-* Finalizado dia 25/05 às 19h.
+* Iniciado dia 24/04 às 6h.
+* Finalizado dia 25/04 às 19h.
 * Tempo total bruto: 25h.
-* Tempo total líquido: 17h. 
+* Tempo total líquido: 18h46m.
+* Tempo adicionado dia 26/04 - 13h x 13h46m 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

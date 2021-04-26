@@ -13,6 +13,10 @@ export const Card = styled.div`
     border: 1px solid #EE0E7D;
     border-radius: 24px;
     color: #EE0E7D;
+    :hover {
+      color: #fff;
+      background-color: var(--pinkjussi);  
+    }
   }
   @media (max-width: 480px) {
     margin: 0 auto;

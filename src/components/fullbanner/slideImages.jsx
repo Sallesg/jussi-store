@@ -38,7 +38,7 @@ export function FullbannerCardsMobile() {
       spaceBetween={0}
       slidesPerView={1}
       scrollbar={{ draggable: true }}
-      onSlideChange={() => console.log('slide change')}
+      onSlideChange={()=>{}}
       onSwiper={(swiper) => console.log(swiper)}
       >
         {cards.map((image, index) => (

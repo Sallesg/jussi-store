@@ -46,7 +46,7 @@ export function Fullbanner() {
           </TextsBanner>
         </InfosBanner>
         <CardsBanner>
-          {cards.map((image, index) => (
+          {cards.map((image, index,) => (
             <span key={index} >
               <CardProduct image={image.image} buttonText={image.text} accessibility={image.alt}/>
             </span>

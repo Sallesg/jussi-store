@@ -11,7 +11,7 @@ export function Card(){
 
   const productInfos = [
     {
-      productId: '001',
+      productId: '1',
       productImage: productOne,
       productName: 'Nome do Produto #1',
       productDescription: 'Descrição do produto #1',
@@ -20,7 +20,7 @@ export function Card(){
       thirdFeature: 'Feature 3',
     },
     {
-      productId: '002',
+      productId: '2',
       productImage: productTwo,
       productName: 'Nome do Produto #2',
       productDescription: 'Descrição do produto #2',
@@ -29,7 +29,7 @@ export function Card(){
       thirdFeature: 'Feature 3',
     },
     {
-      productId: '003',
+      productId: '3',
       productImage: productThree,
       productName: 'Nome do Produto #3',
       productDescription: 'Descrição do produto #3',
@@ -38,7 +38,7 @@ export function Card(){
       thirdFeature: 'Feature 3',
     },
     {
-      productId: '004',
+      productId: '4',
       productImage: productFour,
       productName: 'Nome do Produto #4',
       productDescription: 'Descrição do produto #4',
@@ -51,7 +51,7 @@ export function Card(){
   return (
     <>
       {productInfos.map((item, index) => (
-        <WrapperCard key={item.productId}>
+        <WrapperCard key={index}>
           <Avatar >
             <img src={item.productImage} alt=""/>
           </Avatar>
