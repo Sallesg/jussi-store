@@ -1,4 +1,4 @@
-![jussi](https://ibb.co/wwk9MjF)
+![jussi](https://i.ibb.co/nnGHztN/jussi.png)
 
 # Desafio Jussi
 
