@@ -50,9 +50,9 @@
 
 ### Tempo de projeto
 * Projeto recebido dia 22/05 às 18h42m.
-* Iniciado dia 24/04 às 6h.
+* Iniciado dia 23/04 às 18h.
 * Finalizado dia 25/04 às 19h.
-* Tempo total bruto: 25h.
+* Tempo total bruto: 49h.
 * Tempo total líquido: 18h46m.
 * Tempo adicionado dia 26/04 - 13h x 13h46m 
 
